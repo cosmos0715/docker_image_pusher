@@ -2,3 +2,4 @@ jeessy/ddns-go
 xhofe/alist:latest-ffmpeg
 jc21/nginx-proxy-manager:latest
 6053537/portainer-ce:latest
+jxxghp/moviepilot-v2:latest
